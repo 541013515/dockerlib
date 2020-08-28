@@ -1,1 +1,1 @@
-From k8s.gcr.io/debian-base-amd64:v1.0.0
+From k8s.gcr.io/debian-iptables-amd64:v11.0.2
